@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/",
+      "destination": "/elite_v16_new.html"
+    }
+  ]
+}
